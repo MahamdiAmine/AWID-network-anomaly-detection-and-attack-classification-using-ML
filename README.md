@@ -9,6 +9,8 @@ We worked on the AWID-CLS-R dataset. This dataset contains two files AWID-CLS-R-
 * Random forest
 * Naive-Bayes
 * XGBoost
+# technical work
++ 
 # Results
 
 
