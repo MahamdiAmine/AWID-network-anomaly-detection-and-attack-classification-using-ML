@@ -1,8 +1,8 @@
 # AWID network anomaly detection and attack classification using ML
-The present work aims to design and produce a tool based on machine learning for the detection of anomalies in an Iot network. In this work.
+The present work aims to design and produce a tool based on machine learning for the detection of anomalies in an Iot network.
 
 ## Key words 
-    Machine Learning, ML, Classification, IOt, network anomalies, attacks detection.
+    Machine Learning, ML, Classification, Iot, Network anomalies, attacks detection.
 # Dataset
 We chose to work on the **AWID**dataset, which is a collection of publicly available datasets in an easily distributable format. It includes Wi-Fi network data collected from the network environments.
 
