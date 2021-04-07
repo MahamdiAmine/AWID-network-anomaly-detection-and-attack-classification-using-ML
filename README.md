@@ -30,4 +30,4 @@ The random forest classifier gives the better results:
 ![ROC curve compairaison](./images/ROCs.png)
 
 # More
-for more details check [my report](./Report_Mahamdi.pdf) (writing in french) and the [presentation](https://mahamdiamine.github.io/PFE-presentation/index.html)
+for more details check [my report](./Report_Mahamdi.pdf) (written in french) and the [presentation](https://mahamdiamine.github.io/PFE-presentation/index.html)
